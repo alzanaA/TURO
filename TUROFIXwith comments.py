@@ -94,7 +94,7 @@ while True:
                     if z_vis_p1 [j] > z_pod_p0 [i]:
                         pos_move = f (pos_move [i], pos_move [i] [j])
     
-    # move
+    # move (in 2 pods)
     move = []
         
     for i in range(len(z_pod_id)):
