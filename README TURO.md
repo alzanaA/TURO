@@ -1,8 +1,8 @@
 Nama anggota kelompok:
 Raditya Adhidarma Nugraha	16518203
 Alzana Armaniar Farhani		16518204
-Yolanda T M			16718142
-Bambang Hidayat			16718416
+Yolanda T M			          16718142
+Bambang Hidayat		      	16718416
 
 Strategi: 
 Misi dalam game ini adalah untuk menguasai daerah-daerah dalam bentuk tile sebanyak-banyaknya.
